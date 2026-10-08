@@ -1,4 +1,4 @@
-# 🚀 Mars Rover Predictive Immobilization & Terrain Risk System
+#  Mars Rover Predictive Immobilization & Terrain Risk System
 
 ## Problem
 A planetary rover can lose traction, experience abnormal motor load, or
