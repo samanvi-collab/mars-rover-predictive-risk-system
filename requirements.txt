@@ -3,3 +3,5 @@ pandas
 numpy
 scikit-learn
 joblib
+qiskit
+qiskit-aer
